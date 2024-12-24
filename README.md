@@ -29,6 +29,12 @@
 <br/>
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrukhataev)
+ <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhataev![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact))
+
+
+
 [linkedin]: https://www.linkedin.com/in/farruh-otaev-915603326/
 [instagram]:https://www.instagram.com/ataev.farruh/
 [telegram]:  https://t.me/wecoodebyme
