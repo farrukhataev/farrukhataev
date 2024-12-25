@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrukhataev)
+![Farruh's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrukhataev)
  <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhataev&layout=compact)
 
