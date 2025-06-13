@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Farrukh
 ![](https://komarev.com/ghpvc/?username=farrukhataev)
-### I’m a FrontEnd Developer and student !!
+### I’m a FrontEnd Developer !!
 - 👾 I'm passionate about writing code.
 - 🤓 I enjoy reading and staying active through regular workouts.
 - 👨🏼‍💻 I’m constantly learning new things such as: DB, Node.js.
