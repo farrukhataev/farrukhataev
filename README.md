@@ -5,7 +5,6 @@
 - 🤓 I enjoy reading and staying active through regular workouts.
 - 👨🏼‍💻 I’m constantly learning new things such as: DB, Node.js.
 - 📚 Currently, I am studying to become a software engineer.
-- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
